@@ -1,4 +1,3 @@
-Here’s a more **concise and polished version** of your GitHub `README.md` for the **AI_ImageGenerator_App**:
 
 ---
 
