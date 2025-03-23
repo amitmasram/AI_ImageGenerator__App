@@ -1,16 +1,19 @@
-# aimage_pro
+Here’s a more **concise and polished version** of your GitHub `README.md` for the **AI_ImageGenerator_App**:
 
-A new Flutter project.
+---
 
-## Getting Started
+# AI_ImageGenerator_App
 
-This project is a starting point for a Flutter application.
+AI_ImageGenerator_App allows users to generate stunning images simply by entering a descriptive text prompt. The app utilizes AI to interpret the context and create images that match your description.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- **Flutter**
+- **Provider** (State Management)
+- **Vyro API** (AI Image Generation)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Workflow Diagram
+![Workflow](https://github.com/user-attachments/assets/ce178cac-640b-4123-a568-ca2d85dac07e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Let me know if you'd like to add sections like **Features**, **How to Use**, or **Installation Instructions**!
