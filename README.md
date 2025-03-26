@@ -5,6 +5,7 @@
 
 AI_ImageGenerator_App allows users to generate stunning images simply by entering a descriptive text prompt. The app utilizes AI to interpret the context and create images that match your description.
 
+## Demo-https://vimeo.com/1068742946?share=copy
 ## 🛠 Tech Stack
 - **Flutter**
 - **Provider** (State Management)
